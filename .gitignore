@@ -1,0 +1,11 @@
+# Cache deploy Firebase (bukan bagian sumber proyek)
+.firebase/
+
+# Folder kerja tooling Freebuff
+.freebuff/
+
+# Log & file sistem
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
